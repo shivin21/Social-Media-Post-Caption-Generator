@@ -28,7 +28,7 @@ Phase 3: Building the UI
 Click below on the Video
 
 <div align="center">
-      <a href="https://youtu.be/pN-hK5NqQjk">
+      <a href="https://youtu.be/HEIiCFvS7_4">
      <img 
       src="https://img.youtube.com/vi/pN-hK5NqQjk/0.jpg" 
       alt="Dashboard" 
